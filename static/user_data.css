@@ -1,0 +1,11 @@
+body {
+    background-color: #f0f0f0;
+}
+
+h2 {
+    margin: 10px 2px;
+}
+
+.data {
+    display: flex;
+}
